@@ -16,7 +16,7 @@ Check out my skills and certificates on my website:
 
 I maintain a repository of my entire dev knowledge:
 
-[![](https://img.shields.io/badge/-devlifelore/knowledge-000000?style=flat-square&logo=github)](https://github.com/devlifelore/knowledge-hub)
+[![](https://img.shields.io/badge/-devlifelore/knowledge_hub-000000?style=flat-square&logo=github)](https://github.com/devlifelore/knowledge-hub)
 
 ### Projects
 
