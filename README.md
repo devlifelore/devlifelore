@@ -2,9 +2,9 @@
 
 I'm Manuel, aka **devlifelore**. Father, coffee-fueled coder, and project wizard.
 
-I share my journey of mastering life and coding. Join me to learn, build, and earn together.
+I share my journey of mastering life, coding and building projects. #DevLife 💻
 
-### Skills
+### Skills 🎯
 
 I currently work as a Senior IT Consultant and Software Engineer, creating successful projects for major clients.
 
@@ -12,17 +12,17 @@ Check out my skills and certificates on my website:
 
 [![](https://img.shields.io/badge/-devlifelore.com-000000?style=flat-square&logoColor=white)](https://devlifelore.com)
 
-### Knowledge Hub
+### Knowledge Hub 💡
 
 I maintain a repository of my entire dev knowledge:
 
 [![](https://img.shields.io/badge/-devlifelore/knowledge_hub-000000?style=flat-square&logo=github)](https://github.com/devlifelore/knowledge-hub)
 
-### Projects
+### Projects 🛠
 
 - Main Project: Samsung
 
-### Get in Touch
+### Get in Touch 💌
 
 Let's have a life-changing chat 🌟 Hit me up!
 
