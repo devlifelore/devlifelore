@@ -21,8 +21,6 @@ I maintain a repository of my entire dev knowledge:
 ### Projects
 
 - Main Project: Samsung
-- Side Projects:
-  - B2B Incentive Loyalty Engine 
 
 ### Get in Touch
 
