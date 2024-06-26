@@ -6,7 +6,7 @@ I share my journey of mastering life, coding and building projects. #DevLife ðŸ’
 
 ### Skills ðŸŽ¯
 
-I currently work as a Senior IT Consultant and Software Engineer, creating successful projects for major clients.
+I currently work as a Senior IT Consultant and Software Engineer, creating value & projects for major clients.
 
 Check out my skills and certificates on my website:
 
