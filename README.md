@@ -1,6 +1,6 @@
 ### Hello, World! 👋
 
-I'm Manuel, aka **devlifelore**. Father, coffee-fueled coder, and project wizard.
+I'm Manuel, aka **devlifelore**. Father, coffee-fueled coder and Indie-Maker.
 
 I share my journey of mastering life, coding and building projects. #DevLife 💻
 
@@ -12,11 +12,15 @@ Check out my skills and certificates on my website:
 
 [![](https://img.shields.io/badge/-devlifelore.com-000000?style=flat-square&logoColor=white)](https://devlifelore.com)
 
+
 ### Knowledge Hub 💡
 
-I maintain a repository of my entire dev knowledge:
+I maintain a knowledge-hub to provide a clear and structured learning path for mastering the full roadmap of essential skills to become a successfull Indie Maker and/or Full-Stack Software Engineer.
 
-[![](https://img.shields.io/badge/-devlifelore/knowledge_hub-000000?style=flat-square&logo=github)](https://github.com/devlifelore/knowledge-hub)
+You can find my knowledge-hub here:
+
+- https://knowledge-hub.devlifelore.com
+
 
 ### Projects 🛠
 
