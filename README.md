@@ -28,5 +28,5 @@ You can find my knowledge hub here:
 
 Let's have a life-changing chat 🌟 Hit me up!
 
-[![](https://img.shields.io/badge/-@devlifelore-%231DA1F2?style=flat-square&logo=x)](https://x.com/devlifelore)
-[![](https://img.shields.io/badge/-manuel@devlifelore.com-000000?style=flat-square&logo=mail.ru&logoColor=white)](mailto:manuel@devlifelore.com)
+[![](https://img.shields.io/badge/-Social-%231DA1F2?style=flat-square&logo=x)](https://x.com/devlifelore)
+[![](https://img.shields.io/badge/-Mail-000000?style=flat-square&logo=mail.ru&logoColor=white)](mailto:manuel@devlifelore.com)
