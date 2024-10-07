@@ -26,7 +26,7 @@ You can find my knowledge hub here:
 
 ### Get in Touch 💌
 
-Let's have a life-changing chat 🌟 Hit me up!
+Let's have a chat 🌟 Hit me up!
 
 [![](https://img.shields.io/badge/-Social-%231DA1F2?style=flat-square&logo=x)](https://x.com/devlifelore)
 [![](https://img.shields.io/badge/-Mail-000000?style=flat-square&logo=mail.ru&logoColor=white)](mailto:manuel@devlifelore.com)
