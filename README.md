@@ -1,8 +1,8 @@
 ### Hello, World! 👋
 
-I'm Manuel, aka **devlifelore**. Father, coffee-fueled coder, and indie maker.
+I'm Manuel, also knows as **devlifelore**, a father and coffee-fueled coder.
 
-I share my journey of mastering life, coding, and building projects. #DevLife 💻
+I share my journey of mastering life, coding, and value creation. #DevLife 💻
 
 ### Skills 🎯
 
@@ -14,7 +14,7 @@ Check out my skills and certificates on my website:
 
 ### Knowledge Hub 💡
 
-I maintain a knowledge hub to provide a clear and structured learning path for mastering the full roadmap of essential skills to become a successful indie maker and/or full-stack software engineer.
+I maintain a knowledge hub with a structured learning path for essential skills to become a successful professional personality and Software Engineer.
 
 You can find my knowledge hub here:
 
